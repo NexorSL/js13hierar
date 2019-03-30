@@ -28,7 +28,10 @@ class Point {
   getColor(){
     return 'My color - '+ this.color;
   }
+  getName(){
+    return 'They call me ' + this.constructor.name;
+  }
 }
 console.log(new Point(5,2,'red').getPosition());
 var point = new Point(1,4,'blue');
-console.log(point.getPosition());
+console.log(point.getName());
