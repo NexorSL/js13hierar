@@ -1,2 +1,2 @@
 # js13hierar
-![img](http://prntscr.com/n52y4r)
+![img](https://ibb.co/4fghjW7)
